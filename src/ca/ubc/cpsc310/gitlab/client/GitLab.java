@@ -34,6 +34,10 @@ public class GitLab implements EntryPoint {
 	// create error yes
 	public void createError() {
 	}
+	
+	public void conflictmakemake() {
+		
+	}
 	/**
 	 * This is the entry point method.
 	 */
