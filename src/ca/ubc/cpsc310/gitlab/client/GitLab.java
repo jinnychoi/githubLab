@@ -36,6 +36,7 @@ public class GitLab implements EntryPoint {
 
 	// create error yes
 	public void createError() {
+		System.out.println("error cause");
 	}
 	/**
 	 * This is the entry point method.
