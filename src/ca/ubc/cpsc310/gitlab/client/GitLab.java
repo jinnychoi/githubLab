@@ -36,7 +36,7 @@ public class GitLab implements EntryPoint {
 
 	// create error yes
 	public void createError() {
-		System.out.println("nononoo");
+		System.out.println("nonononno");
 	}
 	
 	public void conflictmakemake() {
